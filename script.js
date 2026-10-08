@@ -39,9 +39,9 @@ const CONFIG = {
 
   // Contact. 'link' is where the card goes when clicked ("" = does nothing yet).
   contact: [
-    { label: "Email", value: "abadalexa86@gmail.com", link: "abadalexa86@gmail.com" },       // e.g. "mailto:you@example.com"
+    { label: "Email", value: "abadalexa86@gmail.com", link: "mailto:abadalexa86@gmail.com" },       // e.g. "mailto:you@example.com"
     { label: "GitHub", value: "venn-motherboard", link: "https://github.com/venn-motherboard" },
-    { label: "Facebook", value: "[facebook.com/username]", link: "" }
+    { label: "Facebook", value: "Lexa Abad", link: "https://www.facebook.com/alexa.abad.7399/" }
   ]
 };
 /* ★★★  END OF EDIT AREA — you shouldn't need to change anything below  ★★★ */
