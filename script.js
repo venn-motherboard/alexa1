@@ -15,7 +15,7 @@ const CONFIG = {
 
   // College achievements. Leave the last one as a template or delete it.
   achievements: [
-    { title: "Former PRO 2", org: "Future Information Technologists Society]" }
+    { title: "Former PRO 2", org: "Future Information Technologists Society" }
   ],
 
   // Education timeline. 'academic' items appear in the expandable area.
@@ -27,23 +27,20 @@ const CONFIG = {
 
   // Skills: icon is a short symbol shown in the box. Replace or remove any.
   skills: [
-    { name: "HTML", icon: "</>" }, { name: "CSS", icon: "{ }" }, { name: "JavaScript", icon: "JS" },
-    { name: "Java", icon: "Jv" }, { name: "Python", icon: "Py" }, { name: "C++", icon: "C+" },
+    { name: "Network Design", icon: "NT" }, { name: "JavaScript", icon: "JS" },
+    { name: "Java", icon: "Jv" }, { name: "C++", icon: "C+" },
     { name: "Git", icon: "git" }, { name: "[Add more]", icon: "+" }
   ],
 
   // Projects. Set github/demo to a real link (e.g. "https://github.com/you/repo") or "" to hide the button.
   projects: [
-    { name: "[Project Name]", text: "[Short project description]", tech: ["[Tech]", "[Tech]"], github: "", demo: "" },
-    { name: "[Project Name]", text: "[Short project description]", tech: ["[Tech]", "[Tech]"], github: "", demo: "" },
-    { name: "[Project Name]", text: "[Short project description]", tech: ["[Tech]", "[Tech]"], github: "", demo: "" }
+    { name: "Attendance", text: "Attendance monitoring system", tech: ["[Tech]", "[Tech]"], github: "", demo: "" },
   ],
 
   // Contact. 'link' is where the card goes when clicked ("" = does nothing yet).
   contact: [
-    { label: "Email", value: "[your.email@example.com]", link: "" },       // e.g. "mailto:you@example.com"
-    { label: "GitHub", value: "[github.com/username]", link: "" },
-    { label: "LinkedIn", value: "[linkedin.com/in/username]", link: "" },
+    { label: "Email", value: "abadalexa86@gmail.com", link: "abadalexa86@gmail.com" },       // e.g. "mailto:you@example.com"
+    { label: "GitHub", value: "venn-motherboard", link: "https://github.com/venn-motherboard" },
     { label: "Facebook", value: "[facebook.com/username]", link: "" }
   ]
 };
