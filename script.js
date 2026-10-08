@@ -40,7 +40,7 @@ const CONFIG = {
   // Contact. 'link' is where the card goes when clicked ("" = does nothing yet).
   contact: [
     { label: "Email", value: "abadalexa86@gmail.com", link: "mailto:abadalexa86@gmail.com", icon:"E" },       // e.g. "mailto:you@example.com"
-    { label: "GitHub", value: "venn-motherboard", link: "https://github.com/venn-motherboard", icon:"G"},
+    { label: "GitHub", value: "Alexa Abad", link: "https://github.com/venn-motherboard", icon:"G"},
     { label: "Facebook", value: "Lexa Abad", link: "https://www.facebook.com/alexa.abad.7399/", icon:"F"}
   ]
 };
