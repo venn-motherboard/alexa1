@@ -27,8 +27,8 @@ const CONFIG = {
 
   // Skills: icon is a short symbol shown in the box. Replace or remove any.
   skills: [
-    { name: "Network Design", icon: "NT" }, { name: "JavaScript", icon: "JS" },
-    { name: "Java", icon: "Jv" }, { name: "C++", icon: "C+" },
+    { name: "Network Design", icon: "NT" }, { name: "Systems and Network", icon: "S&N" },
+    { name: "Java", icon: "Jv" }, { name: "CyberSecurity", icon: "C" },
     { name: "Git", icon: "git" }, { name: "[Add more]", icon: "+" }
   ],
 
