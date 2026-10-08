@@ -11,8 +11,7 @@ const CONFIG = {
   age: "19",
   school: "Nueva Vizcaya State University",
   course: "Bachelor of Science in Information Technology",
-  profilePicture: "54e23073-03a7-4300-9d89-db2b66cb186c.jpg
-",   // e.g. "me.jpg" (put the image in the same folder). Leave "" for a placeholder.
+  profilePicture: "54e23073-03a7-4300-9d89-db2b66cb186c.jpg",   // e.g. "me.jpg" (put the image in the same folder). Leave "" for a placeholder.
 
   // College achievements. Leave the last one as a template or delete it.
   achievements: [
