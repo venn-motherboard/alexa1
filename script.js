@@ -6,16 +6,15 @@
    To remove an item, delete its whole { ... }, line.
    ===================================================================== */
 const CONFIG = {
-  name: "[YOUR NAME]",
-  tagline: "Aspiring Software Developer",
-  age: "[YOUR AGE]",
-  school: "[YOUR CURRENT SCHOOL]",
-  course: "[YOUR COURSE]",
+  name: "Alexa Faye G. Abad",
+  tagline: "Aspiring Network Designer",
+  age: "19",
+  school: "Nueva Vizcaya State University",
+  course: "Bachelor of Science in Information Technology",
   profilePicture: "",   // e.g. "me.jpg" (put the image in the same folder). Leave "" for a placeholder.
 
   // College achievements. Leave the last one as a template or delete it.
   achievements: [
-    { title: "Vice Mayor", org: "Future Information Technologists' Society", text: "Leadership position in the college organization.", featured: true },
     { title: "[Add Achievement]", org: "[Organization / Award / Certification / Competition]", text: "[Short description]" }
   ],
 
