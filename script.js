@@ -15,14 +15,14 @@ const CONFIG = {
 
   // College achievements. Leave the last one as a template or delete it.
   achievements: [
-    { title: "[Add Achievement]", org: "[Organization / Award / Certification / Competition]", text: "[Short description]" }
+    { title: "Former PRO 2", org: "Future Information Technologists Society]" }
   ],
 
   // Education timeline. 'academic' items appear in the expandable area.
   education: [
-    { level: "Elementary", schools: ["Bayombong Central School SPED Center"], academic: ["[Add academic achievements here]"] },
-    { level: "Junior High School", schools: ["Saint Mary's University", "Nueva Vizcaya General Comprehensive High School"], academic: ["[Add academic achievements here]"] },
-    { level: "Senior High School", schools: ["Nueva Vizcaya General Comprehensive High School"], academic: ["[Add academic achievements here]"] }
+    { level: "Elementary", schools: ["Bayombong Central School SPED Center"], academic: ["Honor Student"] },
+    { level: "Junior High School", schools: ["Saint Mary's University", "Nueva Vizcaya General Comprehensive High School"], academic: ["Honor Student"] },
+    { level: "Senior High School", schools: ["Nueva Vizcaya General Comprehensive High School"], academic: ["Honor Student & NCII Holder"] }
   ],
 
   // Skills: icon is a short symbol shown in the box. Replace or remove any.
