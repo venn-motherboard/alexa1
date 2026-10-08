@@ -15,7 +15,7 @@ const CONFIG = {
 
   // College achievements. Leave the last one as a template or delete it.
   achievements: [
-    { title: "NCII Passer & Holder", org: "ICT batch 2023", text:"We are given a chance to train for CSS subject"}
+    { title: "NCII Passer & Holder", org: "ICT batch 2023", text:" trains students to assemble, configure, maintain, and repair computer systems and networks"}
   ],
 
   // Education timeline. 'academic' items appear in the expandable area.
